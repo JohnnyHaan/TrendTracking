@@ -1,0 +1,6 @@
+model_checkpoint_path: "stock_bank_9.ckpt"
+all_model_checkpoint_paths: "stock_bank_5.ckpt"
+all_model_checkpoint_paths: "stock_bank_6.ckpt"
+all_model_checkpoint_paths: "stock_bank_7.ckpt"
+all_model_checkpoint_paths: "stock_bank_8.ckpt"
+all_model_checkpoint_paths: "stock_bank_9.ckpt"
