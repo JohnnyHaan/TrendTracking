@@ -52,6 +52,6 @@ STEP THREE
   
 STEP FOUR  
 open the stock_cnn.ipynb with the jupyer notebook  
-<img src="image/jupyter.bmp" alt="drawing" width="50%"/>
-press the fast-forward button
-<img src="image/run.bmp" alt="drawing" width="50%"/>
+<img src="image/jupyter.png" alt="drawing" width="50%"/>  
+press the fast-forward button  
+<img src="image/run.png" alt="drawing" width="50%"/>  
