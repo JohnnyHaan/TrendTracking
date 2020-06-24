@@ -6,15 +6,15 @@ BUT the MOST IMPORTANT things which I must remind or warn you, this project only
 
 # Contents
 
-./README
-./anaconda_packages_list.txt
-./predict/
-./predict/data_sets/   ### some demo training ,testing and predict data
-./predict/utils_data/   ### data processing ATTENTION when you use the numpy np.std(X, axis=0, ddof=1), please make sure the ddof method, in this project we use ddof default value(as ZER0)
-./predict/utils_models/  ### convolution neural network designing part
-./predict/checkpoints-cnn/  ### the path of the saving model
-./predict/checkpoints-cnn-max/  ### the highest accuray of the saving model when validating during the training
-
+./README  
+./anaconda_packages_list.txt  
+./predict/  
+./predict/data_sets/   ### some demo training ,testing and predict data  
+./predict/utils_data/   ### data processing ATTENTION when you use the numpy np.std(X, axis=0, ddof=1), please make sure the ddof method, in this project we use ddof default value(as ZER0)  
+./predict/utils_models/  ### convolution neural network designing part  
+./predict/checkpoints-cnn/  ### the path of the saving model  
+./predict/checkpoints-cnn-max/  ### the highest accuray of the saving model when validating during the training  
+  
 # Enviroment
 
 We use a notebook to train our Time Series Data Analyze Project and The Basic Information As bellowing
