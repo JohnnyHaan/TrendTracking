@@ -51,6 +51,7 @@ STEP THREE
 [I 20:55:01.271 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).  
   
 STEP FOUR  
-run the stock_cnn.ipynb in the jupyer notebook  
-![Image text](https://github.com/JohnnyHaan/TrendTracking/blob/master/image/jupyter.bmp)  
-![Image text](https://github.com/JohnnyHaan/TrendTracking/blob/master/image/run.bmp)  
+open the stock_cnn.ipynb with the jupyer notebook  
+<img src="image/jupyter.bmp" alt="drawing" width="50%"/>
+press the fast-forward button
+<img src="image/run.bmp" alt="drawing" width="50%"/>
